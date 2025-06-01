@@ -1,131 +1,149 @@
+<div align="center">
+  <h1>👋 Hi, I'm Khải! 🚀</h1>
+  <h3>A passionate Web Developer crafting solutions with React JS and Node JS 🌟</h3>
 
-  👋 Hi, I'm Khải! 🚀
-  A passionate Web Developer crafting solutions with React JS and Node JS 🌟
+  <img src="https://komarev.com/ghpvc/?username=caokhai28122002&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</div>
 
-  
+---
 
+### 🌟 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKz0z1W4L5L2f8k/giphy.gif" width="150" alt="Coding GIF" />
+</div>
 
-🌟 About Me
+- 🔭 **I’m currently working on** full-stack projects to sharpen my skills  
+- 🌱 **I’m learning** new frameworks and tools to build awesome applications  
+- 🌐 **I’ve worked with** various tech stacks across web, mobile, and blockchain  
+- 🤝 **I’m aiming to** contribute to open-source and grow as a full-stack developer  
+- 💡 **I’m passionate about** creating scalable, user-friendly applications  
+- 📫 **Reach me at**: [trancaokhai28122002@gmail.com](mailto:trancaokhai28122002@gmail.com) ✉️  
 
-  
+---
 
+### 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20With%20Love-%F0%9F%92%96-ff69b4?style=for-the-badge" alt="Code With Love" />
+</div>
 
-🔭 I’m currently working on full-stack projects to sharpen my skills  
-🌱 I’m learning new frameworks and tools to build awesome applications  
-🌐 I’ve worked with various tech stacks across web, mobile, and blockchain  
-🤝 I’m aiming to contribute to open-source and grow as a full-stack developer  
-💡 I’m passionate about creating scalable, user-friendly applications  
-📫 Reach me at: trancaokhai28122002@gmail.com ✉️
+#### 🌐 Frontend
+- HTML, CSS, JavaScript  
+- React JS ⚛️, Next JS 🚀  
 
+#### ⚙️ Backend
+- Node JS 🟢, REST API 🌐  
 
-🛠️ Tech Stack
+#### 🗄️ Database
+- MySQL 🐬, MongoDB 🍃  
 
-  
+#### 📱 Mobile
+- React Native 📲, Flutter 🦋  
 
+#### ⛓️ Blockchain
+- Smart Contract 📜, Ethereum 💎, Solidity 🔧, Web3 🌍  
 
-🌐 Frontend
+#### 🛠️ Tools & Platforms
+- Git 🗂️, GitHub 🐙  
+- VS Code 💻  
+- Postman 📡  
 
-HTML, CSS, JavaScript  
-React JS ⚛️, Next JS 🚀
+---
 
-⚙️ Backend
+### 🚀 Projects
 
-Node JS 🟢, REST API 🌐
+<div align="center">
+  <img src="https://img.shields.io/badge/My%20Creations-%F0%9F%8E%89-blueviolet?style=for-the-badge" alt="My Creations" />
+</div>
 
-🗄️ Database
+- **🛒 E-Commerce Platform**  
+  A full-stack e-commerce site built with **React JS**, **Node JS**, and **MongoDB**. Features user authentication, product filtering, and payment integration.  
+  🔗 [GitHub Repo](#) | [Live Demo](#)  
 
-MySQL 🐬, MongoDB 🍃
+- **📋 Task Management Mobile App**  
+  A task management app developed using **React Native**, with a **Node JS** backend and **MySQL** database.  
+  🔗 [GitHub Repo](#) | [Live Demo](#)  
 
-📱 Mobile
+- **🗳️ Blockchain Voting System**  
+  A decentralized voting app using **Solidity** and **Ethereum**, integrated with a **Web3** frontend for secure voting.  
+  🔗 [GitHub Repo](#)  
 
-React Native 📲, Flutter 🦋
+---
 
-⛓️ Blockchain
+### 🌍 Contributions
 
-Smart Contract 📜, Ethereum 💎, Solidity 🔧, Web3 🌍
+<div align="center">
+  <img src="https://img.shields.io/badge/Community%20Love-%F0%9F%92%99-orange?style=for-the-badge" alt="Community Love" />
+</div>
 
-🛠️ Tools & Platforms
+- **🌟 Open-Source Contributions**  
+  I’ve contributed to projects in **React JS** and **Node JS**, fixing bugs and adding features.  
+  🔗 Check my contributions on [GitHub](https://github.com/caokhai28122002)  
 
-Git 🗂️, GitHub 🐙  
-VS Code 💻  
-Postman 📡
+- **🤗 Community Engagement**  
+  I share knowledge on **Flutter** and **Web3** through blog posts and developer forums.  
 
+---
 
-🚀 Projects
+### 📊 Khai Lido's GitHub Stats
 
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caokhai28122002&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caokhai28122002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caokhai28122002&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
+---
 
+### 🏆 Achievements
 
-🛒 E-Commerce PlatformA full-stack e-commerce site built with React JS, Node JS, and MongoDB. Features user authentication, product filtering, and payment integration.🔗 GitHub Repo | Live Demo  
+<div align="center">
+  <img src="https://img.shields.io/badge/Shining%20Moments-%F0%9F%8F%85-yellow?style=for-the-badge" alt="Shining Moments" />
+</div>
 
-📋 Task Management Mobile AppA task management app developed using React Native, with a Node JS backend and MySQL database.🔗 GitHub Repo | Live Demo  
+- **🎉 Hackathon Winner**  
+  Won 1st place in a local hackathon for a decentralized app using **Ethereum** and **Solidity** (2024).  
+- **📜 Certified Developer**  
+  Earned certifications in **React JS** and **Node JS** from recognized platforms.  
 
-🗳️ Blockchain Voting SystemA decentralized voting app using Solidity and Ethereum, integrated with a Web3 frontend for secure voting.🔗 GitHub Repo
+---
 
+### 📬 Connect with Me
 
+<div align="center">
+  <a href="https://github.com/caokhai28122002">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:trancaokhai28122002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-🌍 Contributions
+---
 
-  
+### 💭 My Motto
 
+<div align="center">
+  <i>"Code to learn, learn to code – improving a little every day is more than enough!"</i> 💡
+</div>
 
+---
 
-🌟 Open-Source ContributionsI’ve contributed to projects in React JS and Node JS, fixing bugs and adding features.🔗 Check my contributions on GitHub  
+### ✍️ Blog Posts
 
-🤗 Community EngagementI share knowledge on Flutter and Web3 through blog posts and developer forums.
-
-
-
-📊 Khai Lido's GitHub Stats
-
-  
-  
-  
-
-
-
-🏆 Achievements
-
-  
-
-
-
-🎉 Hackathon WinnerWon 1st place in a local hackathon for a decentralized app using Ethereum and Solidity (2024).  
-📜 Certified DeveloperEarned certifications in React JS and Node JS from recognized platforms.
-
-
-📬 Connect with Me
-
-  
-    
-  
-  
-    
-  
-
-
-
-💭 My Motto
-
-  "Code to learn, learn to code – improving a little every day is more than enough!" 💡
-
-
-
-✍️ Blog Posts
-
-  
-
+<div align="center">
+  <img src="https://img.shields.io/badge/My%20Thoughts-%F0%9F%93%96-teal?style=for-the-badge" alt="My Thoughts" />
+</div>
 
 I love sharing my journey! Check out my recent posts:  
+- 📝 [Getting Started with Web3 and Ethereum for Beginners](#)  
+- 📝 [Building a REST API with Node JS and MongoDB](#)  
+- 📝 [Why I Love Flutter for Cross-Platform Development](#)  
 
-📝 Getting Started with Web3 and Ethereum for Beginners  
-📝 Building a REST API with Node JS and MongoDB  
-📝 Why I Love Flutter for Cross-Platform Development
+---
 
-
-
-  Thanks for stopping by! Let’s create something amazing together! 🌈
-  
+<div align="center">
+  <h3>Thanks for stopping by! Let’s create something amazing together! 🌈</h3>
+  <img src="https://media.giphy.com/media/3o7TKz9X9Z2ZQZwK4o/giphy.gif" width="100" alt="Thank You GIF" />
+</div>
