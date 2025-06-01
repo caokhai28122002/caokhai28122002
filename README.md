@@ -56,15 +56,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/My%20Creations-%F0%9F%8E%89-blueviolet?style=for-the-badge" alt="My Creations" />
 </div>
-
-- **🛒 E-Commerce Platform**  
-  A full-stack e-commerce site built with **React JS**, **Node JS**, and **MongoDB**. Features user authentication, product filtering, and payment integration.  
-  🔗 [GitHub Repo](#) | [Live Demo](#)  
-
-- **📋 Task Management Mobile App**  
-  A task management app developed using **React Native**, with a **Node JS** backend and **MySQL** database.  
-  🔗 [GitHub Repo](#) | [Live Demo](#)  
-
 - **🖼️ NFTMarket**  
   A Web3 blockchain-based NFT marketplace built with **Solidity**, **Ethereum**, and **Web3**, enabling users to buy, sell, and trade NFTs securely.  
   🔗 [GitHub Repo](https://github.com/caokhai28122002/NFTMarket)  
