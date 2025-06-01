@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Khải! 🚀</h1>
+  <h1>👋 Hi, I'm Khai! 🚀</h1>
   <h3>A passionate Web Developer crafting solutions with React JS and Node JS 🌟</h3>
 
   <img src="https://komarev.com/ghpvc/?username=caokhai28122002&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
