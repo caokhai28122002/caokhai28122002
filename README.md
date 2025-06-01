@@ -65,9 +65,9 @@
   A task management app developed using **React Native**, with a **Node JS** backend and **MySQL** database.  
   🔗 [GitHub Repo](#) | [Live Demo](#)  
 
-- **🗳️ Blockchain Voting System**  
-  A decentralized voting app using **Solidity** and **Ethereum**, integrated with a **Web3** frontend for secure voting.  
-  🔗 [GitHub Repo](#)  
+- **🖼️ NFTMarket**  
+  A Web3 blockchain-based NFT marketplace built with **Solidity**, **Ethereum**, and **Web3**, enabling users to buy, sell, and trade NFTs securely.  
+  🔗 [GitHub Repo](https://github.com/caokhai28122002/NFTMarket)  
 
 ---
 
