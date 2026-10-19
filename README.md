@@ -39,7 +39,7 @@
 - MySQL 🐬, MongoDB 🍃  
 
 #### 📱 Mobile
-- React Native 📲, Flutter 🦋  
+- Android Kotlin 📲, Flutter 🦋  
 
 #### ⛓️ Blockchain
 - Smart Contract 📜, Ethereum 💎, Solidity 🔧, Web3 🌍  
