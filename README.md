@@ -36,7 +36,7 @@
 - Node JS 🟢, REST API 🌐  
 
 #### 🗄️ Database
-- MySQL 🐬, MongoDB 🍃  ,PotstgreSQL
+- MySQL 🐬, MongoDB 🍃  ,PostgreSQL
 
 #### 📱 Mobile
 - Android Kotlin 📲, Flutter 🦋  
